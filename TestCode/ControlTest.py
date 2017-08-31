@@ -37,7 +37,7 @@ for n in range( 2, 10 ):
     for x in range( 2, n ):
         if n % x == 0:   # n % x -> 나머지 연산인가?
             print( n, 'equals', x, '*', n//x )  # n//x -> 몫 연산인가?
-            break
+            break # for loop를 빠져 나간다
         else:
             print( n, 'is a prime number')
 print( 'for statements test 완료' )
@@ -67,3 +67,24 @@ for i in range( len( words ) ) :
 print( list( range(5) ) )
 print( range(5) )
 print( 'range function 완료')
+
+print( 'function 정의 및 사용 시작')
+def fib( n ):
+    a, b = 0, 1
+    while a < n:
+        print(a, end=' ')
+        a, b = b, a+b
+    print( )
+
+fib( 2000 )
+
+def fib2( n ):
+    result = []
+    a, b = 0, 1
+    while a < n:
+        result.append( a )
+        a, b = b, a+b
+    return result
+f100 = fib2( 100 )
+print('fib2 실행\n', f100 )
+print( 'function 정의 및 사용 완료')
