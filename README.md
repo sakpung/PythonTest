@@ -35,9 +35,17 @@ Python Source Compile방법
 
 https://docs.python.org/3.5/tutorial/index.html
 
-https://docs.python.org/3.5/tutorial/controlflow.html  -> 4.7번 진행 중
+https://docs.python.org/3.5/tutorial/controlflow.html  -> 4.7.5번 진행 중
 
 
+
+python documentation contents
+
+https://docs.python.org/3.5/contents.html
+
+python에서 기본식들
+
+https://docs.python.org/3.5/library/stdtypes.html#typesmapping
 
 python에서 사용되는 기본 function들
 

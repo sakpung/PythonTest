@@ -88,3 +88,4 @@ def fib2( n ):
 f100 = fib2( 100 )
 print('fib2 실행\n', f100 )
 print( 'function 정의 및 사용 완료')
+
