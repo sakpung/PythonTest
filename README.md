@@ -33,7 +33,9 @@ https://docs.python.org/3.5/tutorial/index.html
 
 ~~https://docs.python.org/3.5/tutorial/controlflow.html  -> 4.7.7번 진행 중~~
 
-https://docs.python.org/3.5/tutorial/datastructures.html  -> 5.5
+~~https://docs.python.org/3.5/tutorial/datastructures.html  -> 5.5~~
+
+https://docs.python.org/3.5/tutorial/modules.html
 
 
 
