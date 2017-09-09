@@ -1,12 +1,12 @@
 # fibonacci numbers module
 
-import func6_Modules
+import fibo
 
-func6_Modules.fib( 1000 )
+fibo.fib( 1000 )
 
-print( func6_Modules.fib2( 1000) )
+print( fibo.fib2( 1000) )
 
-print('__name__', func6_Modules.__name__ )
-print('__doc__', func6_Modules.__doc__ )
-print( '__file__', func6_Modules.__file__ )
-print( '__package__', func6_Modules.__package__ )
+print('__name__', fibo.__name__ )
+print('__doc__', fibo.__doc__ )
+print( '__file__', fibo.__file__ )
+print( '__package__', fibo.__package__ )

@@ -35,7 +35,7 @@ https://docs.python.org/3.5/tutorial/index.html
 
 ~~https://docs.python.org/3.5/tutorial/datastructures.html  -> 5.5~~
 
-https://docs.python.org/3.5/tutorial/modules.html   6.1 진행중
+https://docs.python.org/3.5/tutorial/modules.html   6.1.1 진행중
 
 
 
