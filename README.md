@@ -35,13 +35,11 @@ https://docs.python.org/3.5/tutorial/index.html
 
 ~~https://docs.python.org/3.5/tutorial/datastructures.html  -> 5.5~~
 
-~~https://docs.python.org/3.5/tutorial/modules.html   6.4.2 진행중~~
+~~https://docs.python.org/3.5/tutorial/modules.html   6.4.2 진행중~~~~~~
 
 ~~https://docs.python.org/3.5/tutorial/inputoutput.html  7.2 진행 중~~
 
-~~https://docs.python.org/3.5/tutorial/errors.html  8진행중~~
-
-https://docs.python.org/3.5/tutorial/classes.html
+https://docs.python.org/3.5/tutorial/errors.html
 
 
 
@@ -56,3 +54,12 @@ https://docs.python.org/3.5/library/stdtypes.html#typesmapping
 python에서 사용되는 기본 function들
 
 https://docs.python.org/3/library/functions.html
+
+
+
+
+
+
+
+
+
